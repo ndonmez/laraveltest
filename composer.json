@@ -4,7 +4,7 @@
   "type": "library",
   "keywords": ["Test", "Ndonmez"],
   "license": "MIT",
-  "minimum-stability": "stable",
+  "minimum-stability": "dev",
   "autoload": {
     "psr-4": {
       "ndonmez\\laraveltest\\": "src/"
