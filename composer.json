@@ -1,0 +1,14 @@
+{
+  "name": "ndonmez/laraveltest",
+  "description": "TEST",
+  "type": "library",
+  "keywords": ["Test", "Ndonmez"],
+  "license": "MIT",
+  "minimum-stability": "stable",
+  "autoload": {
+    "psr-4": {
+      "ndonmez\\laraveltest\\": "src/"
+    }
+  },
+  "require": {}
+}
