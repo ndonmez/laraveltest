@@ -5,6 +5,7 @@
   "keywords": ["Test", "Ndonmez"],
   "license": "MIT",
   "minimum-stability": "dev",
+  "prefer-stable": true,
   "autoload": {
     "psr-4": {
       "ndonmez\\laraveltest\\": "src/"
