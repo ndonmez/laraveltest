@@ -15,5 +15,12 @@
     "php": ">=5.6",
     "ndonmez/laraveltest": "1.0.0",
     "ndonmez/laraveltest": "@dev"
-  }
+  },
+  "extra": {
+        "laravel": {
+            "providers": [
+                "NDONMEZ\\laralveltest\\laralveltestServiceProvider"
+            ]
+        }
+    },
 }
