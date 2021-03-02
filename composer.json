@@ -19,7 +19,7 @@
   "extra": {
         "laravel": {
             "providers": [
-                "NDONMEZ\\laraveltest\\laraveltestServiceProvider"
+                "ndonmez\\laraveltest\\laraveltestServiceProvider"
             ]
         }
     }
