@@ -2,10 +2,14 @@
 
 namespace ndonmez\laraveltest;
 
-class Index
+class laraveltest
 {
     public function greet($greet = "Hello World")
     {
         return $greet;
+    }
+    public static function routes()
+    {
+        require __DIR__.'/../routes/laraveltest.php';
     }
 }
